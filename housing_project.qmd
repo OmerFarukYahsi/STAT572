@@ -1,5 +1,4 @@
 ---
-title: "hw1"
 author: "Zehra Cebeci, Ömer Faruk Yahşi"
 format: html
 editor: visual
