@@ -6,6 +6,8 @@ editor: visual
 
 ## Homework 1
 
+deneme
+
 ## **Housing in Luxembourg**
 
 We are going to download data about house prices in Luxembourg. Luxembourg is a little Western European country the author hails from that looks like a shoe and is about the size of .98 Rhode Islands. 
